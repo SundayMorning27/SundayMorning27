@@ -1,8 +1,8 @@
 # Hola, bienvenid@ a mi perfil 👋
-<img align="center" height="350" src="/assets/seerlight_s_city_rain_by_lookafar_dcy79k6.gif" />
+<img align="center" height="350" src="https://www.deviantart.com/pyrogoth/art/Big-Hero-6-516542372" />
 
 
-[gif source](https://www.deviantart.com/lookafar/art/SeerLight-s-City-Rain-783040038)
+[gif source]([https://www.deviantart.com/lookafar/art/SeerLight-s-City-Rain-783040038](https://www.deviantart.com/pyrogoth/art/Big-Hero-6-516542372))
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
 
