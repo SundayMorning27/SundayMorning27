@@ -15,7 +15,7 @@ Ambos sitios nacieron conmigo (Sí, les pedí directamente que me dejaran crearl
 
 Tu Casa Containers no solo me confía su sitio web, también lo hace con su campaña de publicidad y su [perfil de empresa](https://maps.app.goo.gl/Wt4MEvh9qRRktmdw5) (soy co-administrador). Le tengo un cariño especial ya que fue de las primeras empresas que me confiaron ese trabajo. Uno de los logros que más me enorgullecen fue el de llegar a que la IA-Bing lo recomiende cómo el sitio principal para su nicho. Cómo SEO, es a lo que aspiro siempre.
 
-![[https://i.ibb.co/LPBgKs0/tucasacontainerbing.png]]
+![Resultado generado por la IA](https://i.ibb.co/LPBgKs0/tucasacontainerbing.png)
 
 Además, aplico ese conocimiento en proyectos personales, la gran mayoría fallan de manera épica, pero siempre es bueno encontrar cosas en las que mejorar. Actualmente tengo tres proyectos activos que utilizo para experimentar:
 
