@@ -6,7 +6,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
 
-Desde hace más de un año trabajo cómo webmaster para dos de las empresas más relevantes de casas contenedor como lo son: 
+Desde hace más de un año trabajo cómo webmaster para dos de las empresas más relevantes de casas contenedor en Uruguay como lo son: 
 
 - [Tu Casa Containers](https://tucasacontainer.com/) 
 - [Decotainer](https://decotainer.uy/)
