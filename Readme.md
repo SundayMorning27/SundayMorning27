@@ -19,11 +19,11 @@ Tu Casa Containers no solo me confía su sitio web, también lo hace con su camp
 
 Además, aplico ese conocimiento en proyectos personales, la gran mayoría fallan de manera épica, pero siempre es bueno encontrar cosas en las que mejorar. Actualmente tengo tres proyectos activos que utilizo para experimentar:
 
-[info container house](https://infocontainerhouse.com/) (Tratando de generar una autoridad sobre este topic)
+[info container house](https://infocontainerhouse.com/)
 
-[El charrúa digital](https://elcharruadigital.uy/) (Discover Try)
+[El charrúa digital](https://elcharruadigital.uy/) 
 
-[Al aire globo](https://alaireglobo.com/) (Contenido generado con IA)
+[Al aire globo](https://alaireglobo.com/)
 
 Otros sitios en los que colaboro:
 
